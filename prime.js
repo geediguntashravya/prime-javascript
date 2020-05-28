@@ -27,3 +27,4 @@ function test_prime(num){
   assert(test_prime(10)===false,"Testcase 4 passed");
   console.log("All testcases passed");
     
+    
